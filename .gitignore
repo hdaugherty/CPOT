@@ -1,0 +1,6 @@
+.vscode/
+*.log
+*.tmp
+Thumbs.db
+*.nupkg
+*.zip
